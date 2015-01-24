@@ -1,0 +1,326 @@
+- chinese: 不好意思。。。
+  english:
+  - I'm sorry.
+  - Sorry...
+  - Excuse me.
+  type: chinese
+  comment: ! 'Covers: 不好意思. Cost: 0.0'
+- chinese: 不是。
+  english:
+  - No.
+  type: chinese
+  comment: ! 'Covers: 不是. Cost: 0.0'
+- chinese: 不是我们。
+  english:
+  - It's not us.
+  type: chinese
+  comment: ! 'Covers: 我们. Cost: 0.0'
+- chinese: 我不要。
+  english:
+  - I don't want to.
+  type: chinese
+  comment: ! 'Covers: 不要. Cost: 0.0'
+- chinese: 这不好。
+  english:
+  - This isn't good.
+  type: chinese
+  comment: ! 'Covers: 不好. Cost: 0.0'
+- chinese: 你怎么了？
+  english:
+  - What's wrong with you?
+  type: chinese
+  comment: ! 'Covers: 怎么了. Cost: 0.0'
+- chinese: 我请你。
+  english:
+  - I'll treat you.
+  type: chinese
+  comment: ! 'Covers: 请. Cost: 0.0'
+- chinese: 请不要问。
+  english:
+  - Please don't ask.
+  type: chinese
+  comment: ! 'Covers: 问. Cost: 0.0'
+- chinese: 你也是。
+  english:
+  - You too.
+  type: chinese
+  comment: ! 'Covers: 你. Cost: 0.0'
+- chinese: 你想我了？
+  english:
+  - Did you miss me?
+  - Do you miss me?
+  type: chinese
+  comment: ! 'Covers: 了. Cost: 0.0'
+- chinese: 你是我妈妈。
+  english:
+  - You are my mother.
+  type: chinese
+  comment: ! 'Covers: 妈妈. Cost: 0.0'
+- chinese: 我不是您妈妈。
+  english:
+  - I'm not your mother.
+  type: chinese
+  comment: ! 'Covers: 您. Cost: 0.0'
+- chinese: 我有了吗？
+  english:
+  - Am I pregnant?
+  type: chinese
+  comment: ! 'Covers: 有了. Cost: 1.3462392805697285e-4'
+- chinese: 我们完成了吗？
+  english:
+  - Are we done?
+  type: chinese
+  comment: ! 'Covers: 完成. Cost: 1.3462392805697285e-4'
+- chinese: 你有孩子吗?
+  english:
+  - Do you have any children?
+  type: chinese
+  comment: ! 'Covers: 孩子. Cost: 1.3462392805697285e-4'
+- chinese: 作业做了吗?
+  english:
+  - Did you do your homework?
+  type: chinese
+  comment: ! 'Covers: 作业. Cost: 2.741536192390044e-4'
+- chinese: 开啊！
+  english:
+  - Open up.
+  type: chinese
+  comment: ! 'Covers: 开. Cost: 2.5615279001618886e-4'
+- chinese: 少了什么？
+  english:
+  - What is missing?
+  type: chinese
+  comment: ! 'Covers: 少. Cost: 1.4183552185543556e-4'
+- chinese: 我不相信！
+  english:
+  - I don't believe it!
+  type: chinese
+  comment: ! 'Covers: 不. Cost: 0.0'
+- chinese: 我是老师。
+  english:
+  - I'm a teacher.
+  - I am a teacher.
+  type: chinese
+  comment: ! 'Covers: 老师. Cost: 0.0'
+- chinese: 暑假？暑假是什么意思啊？
+  english:
+  - Summer vacation? What does "summer vacation" mean?
+  type: chinese
+  comment: ! 'Covers: 暑假. Cost: 1.7436791630340018e-3'
+- chinese: 不是我的错。
+  english:
+  - It's not my fault.
+  type: chinese
+  comment: ! 'Covers: 我. Cost: 0.0'
+- chinese: 你是对的。
+  english:
+  - You're quite right.
+  type: chinese
+  comment: ! 'Covers: 对. Cost: 0.0'
+- chinese: 我不是认真的。
+  english:
+  - I'm not serious.
+  type: chinese
+  comment: ! 'Covers: 认真. Cost: 0.0'
+- chinese: 我是你的妹妹。
+  english:
+  - I'm your sister.
+  type: chinese
+  comment: ! 'Covers: 妹妹. Cost: 0.0'
+- chinese: 要什么时间的?
+  english:
+  - When would you like to play?
+  type: chinese
+  comment: ! 'Covers: 时间. Cost: 1.4183552185543556e-4'
+- chinese: 今天是星期六。
+  english:
+  - Today is Saturday.
+  type: chinese
+  comment: ! 'Covers: 星期六. Cost: 0.0'
+- chinese: 今天我也会努力的。
+  english:
+  - I'll try my best today, too.
+  type: chinese
+  comment: ! 'Covers: 努力. Cost: 1.261484237123715e-4'
+- chinese: 他开始生气了。
+  english:
+  - He became irritated.
+  type: chinese
+  comment: ! 'Covers: 生气. Cost: 8.436127547499615e-5'
+- chinese: 我要他写。
+  english:
+  - I had him write it.
+  type: chinese
+  comment: ! 'Covers: 写. Cost: 1.4056433770301004e-4'
+- chinese: 他今天可能会来。
+  english:
+  - He may come today.
+  type: chinese
+  comment: ! 'Covers: 可能. Cost: 1.8116893822320374e-4'
+- chinese: 我和我自己来。
+  english:
+  - I come with myself.
+  type: chinese
+  comment: ! 'Covers: 自己. Cost: 2.2302212825556553e-4'
+- chinese: 他对她特别好。
+  english:
+  - He is particularly kind to her.
+  type: chinese
+  comment: ! 'Covers: 特别. Cost: 1.51506198876127e-4'
+- chinese: 她爱的不是你，而是我。
+  english:
+  - It's not you that she loves, it's me.
+  type: chinese
+  comment: ! 'Covers: 而是. Cost: 1.07789981999073e-3'
+- chinese: 她小心地做。
+  english:
+  - She did it carefully.
+  type: chinese
+  comment: ! 'Covers: 小心. Cost: 2.741536192390044e-4'
+- chinese: 他绝望地叹了口气。
+  english:
+  - He sighed with despair.
+  type: chinese
+  comment: ! 'Covers: 叹. Cost: 4.051863857374392e-2'
+- chinese: 听我说！
+  english:
+  - Listen to me!
+  type: chinese
+  comment: ! 'Covers: 说. Cost: 0.0'
+- chinese: 她的样子在说她爱你。
+  english:
+  - Her look says that she loves you.
+  type: chinese
+  comment: ! 'Covers: 样子. Cost: 1.07789981999073e-3'
+- chinese: 让我说完。
+  english:
+  - Let me finish.
+  type: chinese
+  comment: ! 'Covers: 完. Cost: 0.0'
+- chinese: 我们现在去吧。
+  english:
+  - Let's go now.
+  type: chinese
+  comment: ! 'Covers: 现在. Cost: 2.057388803278655e-4'
+- chinese: 我一定会去看他的。
+  english:
+  - I'll certainly go and see him.
+  type: chinese
+  comment: ! 'Covers: 一定. Cost: 2.057388803278655e-4'
+- chinese: 看着我!
+  english:
+  - Look at me!
+  type: chinese
+  comment: ! 'Covers: 看. Cost: 0.0'
+- chinese: 我看了他一段时间。
+  english:
+  - I looked after him for a period of time.
+  type: chinese
+  comment: ! 'Covers: 段. Cost: 1.6474573143809843e-4'
+- chinese: 从这个问题开始吧。
+  english:
+  - Let's begin with this problem.
+  type: chinese
+  comment: ! 'Covers: 从. Cost: 1.0054697554697555e-3'
+- chinese: 别盯着别人看。
+  english:
+  - Don't stare at others.
+  type: chinese
+  comment: ! 'Covers: 盯. Cost: 2.888670633774337e-3'
+- chinese: 他带了个好头。
+  english:
+  - He set a precedent.
+  type: chinese
+  comment: ! 'Covers: 头. Cost: 1.0797387032338175e-3'
+- chinese: 我们一开始就知道。
+  english:
+  - We knew it all along.
+  type: chinese
+  comment: ! 'Covers: 就. Cost: 1.7050763533191015e-4'
+- chinese: 那就这样，一个月1500。
+  english:
+  - ! 'Then how about this: 1500 a month.'
+  type: chinese
+  comment: ! 'Covers: 月. Cost: 5.217600008348161e-4'
+- chinese: 我已经完成了这项工作。
+  english:
+  - I have already finished the job.
+  type: chinese
+  comment: ! 'Covers: 项. Cost: 1.1111481493827572e-3'
+- chinese: 我很难过。
+  english:
+  - I am very sad.
+  type: chinese
+  comment: ! 'Covers: 难过. Cost: 1.672442166949867e-4'
+- chinese: 他的学习成绩很好。
+  english:
+  - He has a good school record.
+  type: chinese
+  comment: ! 'Covers: 成绩. Cost: 1.4064697609001408e-2'
+- chinese: 你洗过你的手了吗？
+  english:
+  - Have you washed your hands yet?
+  type: chinese
+  comment: ! 'Covers: 手. Cost: 9.59877135726627e-3'
+- chinese: 我最关心的是你的安全。
+  english:
+  - My primary concern is your safety.
+  type: chinese
+  comment: ! 'Covers: 关心. Cost: 3.5160507717731443e-3'
+- chinese: 明天是我的休息日。
+  english:
+  - Tomorrow is my day off.
+  type: chinese
+  comment: ! 'Covers: 日. Cost: 8.232485387338437e-3'
+- chinese: 你的眼睛为什么那么大？
+  english:
+  - Why are your eyes so big?
+  type: chinese
+  comment: ! 'Covers: 眼睛. Cost: 8.026648472930129e-4'
+- chinese: 不要相信你听到的每件事。
+  english:
+  - Don't believe everything you hear.
+  type: chinese
+  comment: ! 'Covers: 每. Cost: 5.010773162298943e-3'
+- chinese: 他因羞愧而低下了头。
+  english:
+  - He because of bashful but low head.
+  type: chinese
+  comment: ! 'Covers: 低下. Cost: 9.615384615384615e-2'
+- chinese: 她一个字都没对我说。
+  english:
+  - She didn't say even one word to me.
+  type: chinese
+  comment: ! 'Covers: 字. Cost: 2.1030449988538403e-4'
+- chinese: 这话他根本没说过。
+  english:
+  - He never said that.
+  type: chinese
+  comment: ! 'Covers: 根本. Cost: 8.407671159165622e-4'
+- chinese: 这是一个轻松取得的胜利。
+  english:
+  - It's an easy victory.
+  type: chinese
+  comment: ! 'Covers: 取得. Cost: 1.9234468166955183e-2'
+- chinese: 听到这个坏消息，他心里充满恐怖。
+  english:
+  - He was filled with horror at the bad news.
+  type: chinese
+  comment: ! 'Covers: 心里. Cost: 1.4923145799134457e-2'
+- chinese: 和你的车比起来，我的车很小。
+  english:
+  - Compared with yours, my car is small.
+  - Compared to yours, my car is small.
+  type: chinese
+  comment: ! 'Covers: 小. Cost: 1.5697108592597246e-3'
+- chinese: 我们把一切事情都交给他处理。
+  english:
+  - We placed everything at his disposal.
+  type: chinese
+  comment: ! 'Covers: 交给. Cost: 5.162622612287042e-3'
+- chinese: 几家公司正为争取一项合同而互相竞争.
+  english:
+  - Several companies are competing (against/with each other) for the contract/to
+    gain the contract.
+  type: chinese
+  comment: ! 'Covers: 争取. Cost: 3.244646333549643e-2'

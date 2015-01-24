@@ -1,0 +1,9 @@
+title: Dear Diary: Mama Please Believe Me
+tags:
+ - Beginner
+ - Story
+description: Chinese children's story.
+units:
+ - title: Diary entry
+   content: cn_story.dear_diary.txt
+   stencils: cn_story.dear_diary.txt.yaml
