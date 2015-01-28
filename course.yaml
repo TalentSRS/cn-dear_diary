@@ -5,6 +5,7 @@ tags:
  - Beginner
  - Story
 description: Chinese children's story.
+image: diary.jpg
 units:
  - title: Diary entry
    content: cn_story.dear_diary.txt
